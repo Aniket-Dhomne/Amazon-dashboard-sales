@@ -1,0 +1,5 @@
+- Designed and developed a *user-friendly Amazon dashboard* in *Power BI* with three interactive pages: *Overview, Product, and Product View*.  
+- Implemented *Tooltips* and *drill-through functionality* to enhance user experience and provide deeper insights.  
+- Optimized data visualization for *ease of navigation* and *data-driven decision-making*.  
+- Ensured *efficient data modeling, DAX calculations, and performance optimization* for a smooth user experience.  
+- Created *interactive reports and KPIs* to track product performance and sales trends. 
